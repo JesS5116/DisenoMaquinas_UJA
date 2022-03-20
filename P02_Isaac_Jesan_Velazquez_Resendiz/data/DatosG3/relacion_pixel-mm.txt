@@ -1,0 +1,1 @@
+Para todos los mapas facilitados la relación entre píxel y milímetro es 1.85 pix/mm.
